@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 * parallel sorting with opencl [PSort](https://github.com/sorceryyy/pa_compute)
 * realizations of classical ml algorithms
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sorceryyy)
+<a href="#">
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sorceryyy&layout=compact&hide=html,java' width="400px" />
+</a>
 
 
 
