@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **xiaopaiky@gmail.com**
 
 #### what I've done
-* projects of Operating System(4 labs)
+* [projects of Operating System(4 labs)](https://github.com/sorceryyy/os_labs)
 * Pedestrian Dead Reckoning
 * parallel sorting with opencl
 * realizations of classical ml algorithms
