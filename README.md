@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 * parallel sorting with opencl
 * realizations of classical ml algorithms
 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sorceryyy)
 
 
