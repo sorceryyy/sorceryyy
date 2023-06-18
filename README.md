@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **xiaopaiky@gmail.com**
 
 #### what I've done
-* [projects of Operating System(4 labs)](https://github.com/sorceryyy/os_labs)
-* Pedestrian Dead Reckoning
-* parallel sorting with opencl
+* projects of Operating System(4 labs) [osLab](https://github.com/sorceryyy/os_labs)
+* projects of Natural Language Processing [NLPLab](https://github.com/sorceryyy/nlp_lab)
+* Pedestrian Dead Reckoning [PDR](https://github.com/sorceryyy/aml)
+* parallel sorting with opencl [PSort](https://github.com/sorceryyy/pa_compute)
 * realizations of classical ml algorithms
 
 
