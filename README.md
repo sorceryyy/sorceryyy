@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 
 - 🏫 I'm an undergraduate at Nanjing University (NJU)
 - 💬 My interest mainly includes **ML/AI**
-- 🌱 I'm currently a beginner in **Software Construction/Deep Learning Systems**.
+- 🌱 I'm currently a beginner in **Deep Learning Systems**.
 - 📫 How to reach me: **xiaopaiky@gmail.com**
 
 #### what I've done
 * projects of Operating System(4 labs) [osLab](https://github.com/sorceryyy/os_labs)
-* projects of Natural Language Processing [NLPLab](https://github.com/sorceryyy/nlp_lab)
-* Pedestrian Dead Reckoning [PDR](https://github.com/sorceryyy/aml)
+* projects of Natural Language Processing about sentiment analysis [NLPLab](https://github.com/sorceryyy/nlp_lab)
+* Pedestrian Dead Reckoning with Multi-layer processor/SMA [PDR](https://github.com/sorceryyy/aml)
 * parallel sorting with opencl [PSort](https://github.com/sorceryyy/pa_compute)
 * realizations of classical ml algorithms
 
