@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 <a href="#">
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sorceryyy&layout=compact&hide=html,java' width="400px" />
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sorceryyy&layout=compact' width="400px" />
 </a>
 
 - 🏫 I'm an undergraduate at Nanjing University (NJU)
